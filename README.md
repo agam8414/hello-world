@@ -1,2 +1,5 @@
 # hello-world
-Just my first repository. Maybe, I'll use it as a place where to store and share ideas, resources, ...
+
+Hi folks!
+
+Alex here, I'm in the middle of being a geek, so let's start by Git & GitHub!!
